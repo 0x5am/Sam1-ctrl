@@ -18,7 +18,7 @@ I've been learning to code for about 4 months now, I currently work in the Retai
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
                 <p align="left">
