@@ -21,7 +21,7 @@ I've been learning to code for about 4 months now, I currently work in the Retai
 ### Socials
                   
                   
-                <p align="left">
+   <p align="left">
                           
                       <a href="https://www.github.com/Sam1-ctrl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
