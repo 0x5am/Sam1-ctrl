@@ -25,5 +25,8 @@ I've been learning to code for about 4 months now, I currently work in the Retai
                           
 <a href="https://www.github.com/Sam1-ctrl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
-<a href="http://www.instagram.com/_samcheetham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+<a href="http://www.instagram.com/_samcheetham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+### Badges
+<b>My GitHub Stats</b>
+<a
                       href="http://www.github.com/Sam1-ctrl"><img src="https://github-readme-stats.vercel.app/api?username=Sam1-ctrl&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sam1-ctrl's GitHub stats" /></a>
