@@ -10,7 +10,8 @@ I've been learning to code since October 2022, I currently work in the retail se
 *   ✉️  You can contact me at [cheetham.sam2000@gmail.com](mailto:cheetham.sam2000@gmail.com)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on anything new/entry-level
-*   ⚡  Very passionate about non-profit/charitable projects.### Skills 
+*   ⚡  Very passionate about non-profit/charitable projects.
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
